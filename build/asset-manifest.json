@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WeeklyForm/static/css/main.fb430bd9.chunk.css",
+    "main.js": "/WeeklyForm/static/js/main.8b1fa582.chunk.js",
+    "main.js.map": "/WeeklyForm/static/js/main.8b1fa582.chunk.js.map",
+    "runtime-main.js": "/WeeklyForm/static/js/runtime-main.c672525f.js",
+    "runtime-main.js.map": "/WeeklyForm/static/js/runtime-main.c672525f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/WeeklyForm/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a3fa9e55.chunk.js": "/WeeklyForm/static/js/2.a3fa9e55.chunk.js",
+    "static/js/2.a3fa9e55.chunk.js.map": "/WeeklyForm/static/js/2.a3fa9e55.chunk.js.map",
+    "static/js/3.8cd7a2a4.chunk.js": "/WeeklyForm/static/js/3.8cd7a2a4.chunk.js",
+    "static/js/3.8cd7a2a4.chunk.js.map": "/WeeklyForm/static/js/3.8cd7a2a4.chunk.js.map",
+    "index.html": "/WeeklyForm/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/WeeklyForm/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.fb430bd9.chunk.css.map": "/WeeklyForm/static/css/main.fb430bd9.chunk.css.map",
+    "static/js/2.a3fa9e55.chunk.js.LICENSE.txt": "/WeeklyForm/static/js/2.a3fa9e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c672525f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a3fa9e55.chunk.js",
+    "static/css/main.fb430bd9.chunk.css",
+    "static/js/main.8b1fa582.chunk.js"
+  ]
+}
